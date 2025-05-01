@@ -1,7 +1,7 @@
 
 # Angela Panjoj's Portfolio
 
-Hi my name is Angela Panjoj. Im currently a freshmen at CSU Fullerton and i am majoring in 
+Hi my name is Angela Panjoj. I'm currently a freshmen at CSU Fullerton and I am majoring in 
 computer engineering.
 
 ## Favorite CPSC 120L Labs
