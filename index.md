@@ -6,20 +6,20 @@ computer engineering.
 
 ## Favorite CPSC 120L Labs
 
-**Lab 3, Part 1- Basal Metabolic Rate (BMR)**
+**Lab 3, Part 1- Basal Metabolic Rate (BMR)**\
 I really enjoyed this lab since it had involved numbers to calculate the bmr. It included 
-individuals weight, age, and gender. This focused more on using the Mifflin St.jeor equation 
+individuals weight, age, and gender. This focused more on using the Mifflin St. Jeor equation 
 and some printing statements. Just like in regular math, pemdas is important to calculate 
 and in this lab I learned that when programming, operators have a precedence.
 
-**Lab 6, Part 2 - Blackjack score**
+**Lab 6, Part 2 - Blackjack score**\
 This was my favorite lab because I really enjoy playing card games, even online. It really 
 showed me another perspective of not just a player but also like a creator. It had some if 
 statements that I found hard but with a little more help it was understandable. Besides 
 making this program, the atmosphere with my group was really enjoyable and that also made it 
 fun. 
 
-**Lab 7, Part 1 - Parking Rules**
+**Lab 7, Part 1 - Parking Rules**\
 Although lab 7 was very short, I really enjoyed it since it allowed us to create a program 
 that figures out if you can park in the 4 given streets at a specific time. This lab had if 
 statements that determined whether the input was a valid street, day of the week, and time. 
